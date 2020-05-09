@@ -26,5 +26,5 @@
 
 ![result](4/img/1.png)
 
-![certificate](results.png)
+![certificate](result.png)
 
